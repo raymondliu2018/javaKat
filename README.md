@@ -6,4 +6,5 @@ Windows Users: Run GameBuilder-Windows.bat
 Mac Users: Read GameBuilder-iOS.txt
 
 Work in Progress: Connecting game clients and servers over the internet
+
 Work in Progress: Tutorials and Wiki pages
