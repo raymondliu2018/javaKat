@@ -1,5 +1,5 @@
 package workspace; 
-import thePackage.*;
+import javaKat.*;
 
 public class Script implements SuperScript {
     public static void init() {
